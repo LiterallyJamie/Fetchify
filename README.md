@@ -2,6 +2,8 @@
 
 An very simple GUI app to download YouTube videos in webm format with  
 Dark-themed interface with selectable video quality.
+
+
 <img width="499" height="403" alt="image" src="https://github.com/user-attachments/assets/a9fbae22-c709-41a2-8257-38cadcc5559c" />
 
 ## Requirements (linux)
