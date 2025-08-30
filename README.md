@@ -1,6 +1,6 @@
 # YtDownloader
 
-An very simple GUI app to download YouTube videos in .webm format with a
+A very simple GUI app to download YouTube videos in .webm format with a
 Dark-themed interface with selectable video quality with a progress bar.
 
 
