@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Run the Python GUI using the bundled virtual environment
+/usr/local/lib/ytdownloader-venv/bin/python3 /usr/local/bin/ytdownloader.py
