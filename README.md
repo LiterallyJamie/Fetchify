@@ -1,7 +1,7 @@
 # YtDownloader
 
 An very simple GUI app to download YouTube videos in .webm format with a
-Dark-themed interface with selectable video quality With a progress bar!
+Dark-themed interface with selectable video quality with a progress bar.
 
 
 <img width="499" height="403" alt="image" src="https://github.com/user-attachments/assets/a9fbae22-c709-41a2-8257-38cadcc5559c" />
@@ -32,6 +32,6 @@ ytdownloader
 ```
    
 ## Installation (Windows)
-I havent Created A .exe yet for windows. Its on the way. So for now this app is linux only sorry...
+I havent Created An app yet for windows. Its on the way. So for now this app is linux only sorry...
 
 
