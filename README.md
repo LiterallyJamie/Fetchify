@@ -33,8 +33,8 @@ ytdownloader
 ## Installation (Windows)
 Make sure you have FFmpeg installed if not heres how:
 
-1: install chocolatey if not already: 
-open powershell and type:
+1: install chocolatey if you dont have it already. 
+Run Powershell As Admin and type:
 ```bash
 Set-ExecutionPolicy Bypass -Scope Process -Force
 iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
@@ -44,6 +44,15 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 choco install ffmpeg
 ```
 3: Download installer from releases
+
 4: Run it (The installer will guide you from there)
+<img width="592" height="460" alt=";Capture" src="https://github.com/user-attachments/assets/a69ee01a-79df-4e6f-bb2b-ca6fb1b44175" />
 
 
+
+
+#You may need to drag the box a bit to beable to see the text
+##Before:
+<img width="518" height="421" alt="dddd" src="https://github.com/user-attachments/assets/20be7de6-70a0-483b-bfec-c0790052d7ff" />
+##After:
+<img width="522" height="458" alt="dsa" src="https://github.com/user-attachments/assets/2f130325-72ec-4173-8084-c999ddf17b01" />
