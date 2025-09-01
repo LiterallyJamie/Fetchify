@@ -46,6 +46,8 @@ choco install ffmpeg
 3: Download installer from releases
 
 4: Run it (The installer will guide you from there)
+
+
 <img width="592" height="460" alt=";Capture" src="https://github.com/user-attachments/assets/a69ee01a-79df-4e6f-bb2b-ca6fb1b44175" />
 
 
@@ -53,6 +55,9 @@ choco install ffmpeg
 
 #You may need to drag the box a bit to beable to see the text
 ##Before:
+
 <img width="518" height="421" alt="dddd" src="https://github.com/user-attachments/assets/20be7de6-70a0-483b-bfec-c0790052d7ff" />
+
 ##After:
+
 <img width="522" height="458" alt="dsa" src="https://github.com/user-attachments/assets/2f130325-72ec-4173-8084-c999ddf17b01" />
