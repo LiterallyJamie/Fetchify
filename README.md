@@ -1,10 +1,9 @@
-# YtDownloader
+# Fetchify
 
-A very simple GUI app to download YouTube videos in .webm format with a
+A very simple GUI app to download YouTube videos in mp4,mp3,webm format with a
 Dark-themed interface with selectable video quality with a progress bar.
 
-
-<img width="499" height="403" alt="image" src="https://github.com/user-attachments/assets/a9fbae22-c709-41a2-8257-38cadcc5559c" />
+<img width="521" height="460" alt="Capture" src="https://github.com/user-attachments/assets/75de0a9e-9c85-4833-a8fc-1442c94b5c70" />
 
 ## Requirements (linux)
 - Python 3
@@ -32,6 +31,19 @@ ytdownloader
 ```
    
 ## Installation (Windows)
-I havent Created An app yet for windows. Its on the way. So for now this app is linux only sorry...
+Make sure you have FFmpeg installed if not heres how:
+
+1: install chocolatey if not already: 
+open powershell and type:
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force
+iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
+2: Install FFmpeg:
+```bash
+choco install ffmpeg
+```
+3: Download installer from releases
+4: Run it (The installer will guide you from there)
 
 
