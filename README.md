@@ -1,6 +1,6 @@
 # Fetchify
 
-A very simple GUI app to download YouTube videos in mp4,mp3,webm format with a
+A very simple GUI app to download YouTube videos in mp4, mp3, webm format with a
 Dark-themed interface with selectable video quality with a progress bar.
 
 <img width="521" height="460" alt="Capture" src="https://github.com/user-attachments/assets/75de0a9e-9c85-4833-a8fc-1442c94b5c70" />
@@ -31,9 +31,9 @@ ytdownloader
 ```
    
 ## Installation (Windows)
-Make sure you have FFmpeg installed if not heres how:
+Make sure you have FFmpeg installed, if not heres how:
 
-1: install chocolatey if you dont have it already. 
+1: Install chocolatey if you dont have it already. 
 Run Powershell As Admin and type:
 ```bash
 Set-ExecutionPolicy Bypass -Scope Process -Force
@@ -43,7 +43,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 ```bash
 choco install ffmpeg
 ```
-3: Download installer from releases
+3: Download Latest Fetchifyinstaller.exe from releases
 
 4: Run it (The installer will guide you from there)
 
@@ -52,6 +52,8 @@ choco install ffmpeg
 
 
 
-#You may need to drag the box a bit to beable to see the text
+
+
+#You may need to drag the box a bit to be able to see the imformation text
 
 <img width="522" height="458" alt="dsa" src="https://github.com/user-attachments/assets/2f130325-72ec-4173-8084-c999ddf17b01" />
