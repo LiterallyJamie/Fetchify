@@ -5,7 +5,7 @@ Dark-themed interface with selectable video quality with a progress bar.
 
 <img width="521" height="460" alt="Capture" src="https://github.com/user-attachments/assets/75de0a9e-9c85-4833-a8fc-1442c94b5c70" />
 
-## Requirements (linux)
+## Requirements (linux) *Outdated Version but still works but only does webm*
 - Python 3
 - python3-venv
 - python3-tk
