@@ -6,7 +6,7 @@ mkdir -p /usr/local/share/applications
 mkdir -p /usr/local/share/icons
 
 # Copy desktop file and icon
-cp /usr/local/share/applications/ytdownloader.desktop /usr/local/share/applications/
+cp /usr/local/share/applications/fetchify.desktop /usr/local/share/applications/
 cp /usr/local/share/icons/ytdownloader.png /usr/local/share/icons/
 
 # Update desktop database
